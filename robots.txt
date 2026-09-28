@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.kqoxf.cn/sitemap.xml
